@@ -266,7 +266,7 @@ The long-term vision extends beyond any two fields. Researchers, practitioners, 
 
 ## License
 
-[To be determined]
+MIT License
 
 ---
 
