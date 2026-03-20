@@ -1,4 +1,4 @@
-# Academic Writing Skill Builder
+# Interdisciplinary Writing Skill Builder
 
 ## Purpose
 
