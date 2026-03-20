@@ -1,4 +1,4 @@
-# Interdisciplinary Writing Skill Builder - Claude Code
+# Interdisciplinary Social Science Research Skill Builder - Claude Code
 
 ## Purpose
 
