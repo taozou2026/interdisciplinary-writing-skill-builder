@@ -12,7 +12,7 @@ This project solves that problem. It processes exemplar journal articles from an
 
 **Inspired by two upstream workflows:**
 - [Academic Research Skills](https://github.com/Imbad0202/academic-research-skills) (Cheng-I Wu) — multi-agent pipeline for research, writing, integrity verification, peer review, and Socratic guidance
-- [LitPilot](https://github.com/JCL988/LitPilot) — structured agent prompts for PDF literature processing with evidence provenance, thesis-aligned extraction, Excel tracking, and incremental synthesis
+- [LitPilot](https://github.com/JCL988/LitPilot) (Juncheng Lyu) — structured agent prompts for PDF literature processing with evidence provenance, thesis-aligned extraction, Excel tracking, and incremental synthesis
 
 This project borrows specific design patterns from each (documented below) and adapts them for building field-calibrated writing skills.
 
