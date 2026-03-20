@@ -1,4 +1,4 @@
-# Interdisciplinary Writing Skill Builder
+# Interdisciplinary Writing Skill Builder - Claude Code
 
 ## Purpose
 
