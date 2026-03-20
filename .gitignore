@@ -1,0 +1,23 @@
+# Exemplar PDFs (copyrighted journal articles)
+exemplars/**/*.pdf
+
+# Analysis notes (derived from copyrighted content)
+analysis/**/*.md
+analysis/**/*.csv
+
+# Generated SKILL.md files (personal output)
+output/**/*.md
+
+# Keep empty directory structure
+!**/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
